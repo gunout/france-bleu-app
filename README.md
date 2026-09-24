@@ -353,8 +353,7 @@ Distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus d'
 
 - 🐙 GitHub : [@gunout](https://github.com/gunout)
 - 📦 Dépôt : [france-bleu-app](https://github.com/gunout/france-bleu-app)
-- 🌐 Site : [gradio-gleaphe.duckdns.org](https://gradio-gleaphe.duckdns.org/)
-- 📻 Gunout Webradio
+
 
 ---
 
