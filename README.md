@@ -179,6 +179,11 @@ python3 fr.py
 
 ## 📸 Aperçu
 
+<img width="560" height="70" alt="frapp2" src="https://github.com/user-attachments/assets/42695b0b-ea21-4087-a24a-d7d74702e2ff" />
+
+<img width="560" height="640" alt="frapp" src="https://github.com/user-attachments/assets/145cf6b8-e0c8-4704-91d6-58a389b51374" />
+
+
 ### 🎵 Mode Audio — Visualiseur bleu France Bleu
 
 ```
